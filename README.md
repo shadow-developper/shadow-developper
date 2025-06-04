@@ -5,8 +5,7 @@
 Je suis passionné par le **développement web**, le **réseau** et l’**automatisation**.  
 J’apprends et je développe principalement en **HTML**, **CSS**, et un peu de **JavaScript**.
 
-🧠 **Actuellement en classe de 3ᵉ**  
-📜 **472 Pix certifiés** démontrant mes compétences numériques.
+🧠 **472 Pix certifiés** démontrant mes compétences numériques.
 
 ---
 
