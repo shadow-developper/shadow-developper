@@ -3,7 +3,7 @@
 🎯 **Passionné d’informatique depuis le collège**
 
 Je suis passionné par le **développement web**, le **réseau** et l’**automatisation**.  
-J’apprends et je développe principalement en **HTML**, **CSS**, et un peu de **JavaScript**.
+J’apprends et je développe principalement en **HTML**, **CSS**, **JavaScript**, ainsi qu'en **React** et **Node.js**.
 
 🧠 **472 Pix certifiés** démontrant mes compétences numériques.
 
@@ -28,16 +28,15 @@ J’apprends et je développe principalement en **HTML**, **CSS**, et un peu de 
 ### ⏱️ Temps de code (via WakaTime)
 ![Statistiques WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=shadow_developper&theme=tokyonight)
 
-
 ---
 
 ## 🛠️ Outils & Langages
 
 ### 💻 Langages
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 
 ### 🧰 Outils
-<img src="https://skillicons.dev/icons?i=vscode,github" />
+<img src="https://skillicons.dev/icons?i=vscode,mongodb,postman,github" />
 
 ---
 
