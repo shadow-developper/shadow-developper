@@ -14,7 +14,7 @@ J’apprends et je développe principalement en **HTML**, **CSS**, et un peu de 
 🔹 **ShadowHeberg** — [shadowheberg.com](https://shadowheberg.com)  
 → Hébergeur payant de qualité. J’ai participé activement au développement du site web.
 
-🔹 **ShadowBot** — Un bot multifonction en français pour Discord, prévu dans les prochains mois.
+🔹 Formation pour devenir fullstack en cours, dans le cadre d'activités extra-scolaires
 
 ---
 
