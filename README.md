@@ -1,9 +1,7 @@
 ## 👋 Salut, moi c’est Shadow
 
-🎯 Passionné par le **développement web**, les **réseaux** et l’**automatisation**.  
-💻 J’utilise principalement **HTML**, **CSS**, **JavaScript**, **React** et **Node.js**.  
-🧠 472 **Pix certifiés** attestent mes compétences.  
-🚀 En formation fullstack dans le cadre d’activités extra‑scolaires.
+Passionné d'informatique depuis maintenant 4ans, j'adore coder des applications diverses et variées.
+🚀 Je suis actuellement en formation fullstack dans le cadre d’activités extra‑scolaires.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shadow-developper&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="vues du profil" />
@@ -19,7 +17,7 @@
 
 ## 🧰 Outils & Technologies
 
-<a href="#">[![](https://skillicons.dev/icons?i=vscode,mongodb,postman,github&theme=dark)](https://github.com/shadow-developper)</a>
+<a href="#">[![](https://skillicons.dev/icons?i=vscode,mongodb,postman,github,discord&theme=dark)](https://github.com/shadow-developper)</a>
 
 ---
 
