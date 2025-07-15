@@ -15,7 +15,7 @@ Passionné d'informatique depuis maintenant 4ans, j'adore coder des applications
 
 ---
 
-## 🧰 Outils & Technologies
+## 🧰 Outils utilisés
 
 <a href="#">[![](https://skillicons.dev/icons?i=vscode,mongodb,postman,github,discord&theme=dark)](https://github.com/shadow-developper)</a>
 
