@@ -1,6 +1,6 @@
 ## 👋 Salut, moi c’est Shadow
 
-Passionné d'informatique depuis maintenant 4ans, j'adore coder des applications diverses et variées.
+Passionné d'informatique depuis maintenant 4ans, j'adore coder des applications diverses et variées. <br/>
 🚀 Je suis actuellement en formation fullstack dans le cadre d’activités extra‑scolaires.
 
 <p align="left">
