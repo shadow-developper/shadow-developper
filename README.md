@@ -11,7 +11,7 @@ Passionné d'informatique depuis maintenant 4ans, j'adore coder des applications
 
 ## ✏️ Langages de programmation
 
-<a href="#">[![](https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark)](https://github.com/shadow-developper)</a>
+<a href="#">[![](https://skillicons.dev/icons?i=html,css,js,react,nodejs,discordjs&theme=dark)](https://github.com/shadow-developper)</a>
 
 ---
 
